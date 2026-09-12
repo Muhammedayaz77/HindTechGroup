@@ -16,7 +16,7 @@ Primary: hindtechgroup.com
 Secondary: hindtechgroup.co.in
 
 ## Approved company wording
-Building technology since 2017
+Technology That Moves Forward.
 
 ## Location
 Tipu Sultan Road, Nanded, Maharashtra, India
