@@ -23,7 +23,7 @@ Tipu Sultan Road, Nanded, Maharashtra, India
 19.163365, 77.329190
 
 ## Contact
-hindtechgroup@gmail.com
+Use the website Contact page for enquiries.
 
 ## Architecture
 MVVM-style: View / View Model / Models / Helper / Assets. Static-first frontend for speed, SEO and simple deployment. Python is reserved for genuine server-side requirements.
