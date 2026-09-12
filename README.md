@@ -2,6 +2,10 @@
 
 Premium, performance-first corporate website for HindTechGroup.
 
+## Live Website
+
+https://muhammedayaz77.github.io/HindTechGroup/View/index.html
+
 ## Business Areas
 - Hind Pharma
 - Software Development
