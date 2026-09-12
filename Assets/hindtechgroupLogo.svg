@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 180"><defs><linearGradient id="g"><stop stop-color="#20c997"/><stop offset="1" stop-color="#70e1c4"/></linearGradient></defs><rect width="720" height="180" rx="42" fill="#071412"/><path d="M62 126V54h22v27h34V54h22v72h-22v-25H84v25H62Z" fill="url(#g)"/><circle cx="164" cy="90" r="36" fill="none" stroke="#20c997" stroke-width="8"/><path d="M154 90h20M164 80v20" stroke="#70e1c4" stroke-width="6" stroke-linecap="round"/><text x="218" y="108" fill="#fff" font-family="Arial,sans-serif" font-size="55" font-weight="700">HindTechGroup</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 190" role="img" aria-labelledby="title desc">
+<title id="title">HindTechGroup</title><desc id="desc">Abstract geometric HindTechGroup mark with hidden H, T and G forms, followed by the HindTechGroup wordmark.</desc>
+<defs><linearGradient id="g" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#159A73"/><stop offset="1" stop-color="#34D6A3"/></linearGradient></defs>
+<g transform="translate(12 20)" fill="url(#g)">
+<path d="M18 38 54 16v92l-36-22z"/>
+<path d="M76 4h36l38 23v42L76 46z"/>
+<path d="M76 60h36l38 23v42l-38-23-36 22z"/>
+<path d="M58 34h18v86H58z"/>
+</g>
+<g font-family="Inter,Arial,sans-serif" font-weight="800" font-size="58" letter-spacing="-2"><text x="190" y="92" fill="#07110E">HindTech</text><text x="470" y="92" fill="#159A73">Group</text></g>
+<text x="192" y="132" font-family="Inter,Arial,sans-serif" font-size="18" letter-spacing="4" fill="#33423D">TECHNOLOGY THAT MOVES FORWARD.</text>
+</svg>
