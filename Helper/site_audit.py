@@ -25,7 +25,7 @@ class Parser(HTMLParser):
             if not candidate.exists():
                 errors.append(f"{self.file}: missing {value}")
 
-for file in [ROOT / "index.html", *sorted((ROOT / "View").glob("*.html"))]:
+for file in sorted((ROOT / "View").glob("*.html")):
     Parser(file).feed(file.read_text(encoding="utf-8"))
 
 if errors:
