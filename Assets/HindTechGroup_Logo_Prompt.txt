@@ -1,0 +1,45 @@
+# HindTechGroup Logo Generation Prompt
+
+Create a premium, modern and futuristic corporate logo for **HindTechGroup**.
+
+Design a distinctive **abstract geometric symbol that subtly forms the letters H, T and G without showing the letters directly**. Use interlocking/negative-space shapes to suggest forward movement, growth, technology and connectivity. The symbol should feel like one intelligent mark rather than three obvious letters.
+
+Use a clean hexagonal/forward-motion structure, strong negative space and balanced geometry. It must remain recognizable at very small sizes.
+
+Brand:
+- Name: HindTechGroup
+- Tagline: Technology That Moves Forward.
+- Established: Since 2017 (About/history only)
+
+Business areas:
+- Software development
+- Healthcare / Pharma
+- EV charging technology
+
+Style:
+- Premium
+- Minimal
+- Geometric
+- Futuristic but timeless
+- Corporate
+- Intelligent
+- Vector-like
+- Highly scalable
+
+Colours:
+- Deep green / emerald
+- Mint green accent
+- Near-black charcoal
+- White
+
+Do not use generic globe, brain, circuit-board, medical cross, EV plug, stock icon or obvious H/T/G lettering.
+
+Create:
+1. Horizontal logo: symbol + HindTechGroup
+2. Symbol-only mark
+3. Stacked logo
+4. Square app/favicon icon
+5. Monochrome version
+6. Transparent-background version
+
+The final symbol must work independently for favicon, app icon, website, social profile, stationery and product branding.
