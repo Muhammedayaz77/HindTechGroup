@@ -1,1 +1,25 @@
 # HindTechGroup
+
+Premium, performance-first corporate website for HindTechGroup.
+
+## Business Areas
+- Hind Pharma
+- Software Development
+- EV Charging Solutions
+
+## Domains
+Primary: hindtechgroup.com
+Secondary: hindtechgroup.co.in
+
+## Approved company wording
+Building technology since 2017
+
+## Location
+Tipu Sultan Road, Nanded, Maharashtra, India
+19.163365, 77.329190
+
+## Contact
+hindtechgroup@gmail.com
+
+## Architecture
+MVVM-style: View / View Model / Models / Helper / Assets. Static-first frontend for speed, SEO and simple deployment. Python is reserved for genuine server-side requirements.
