@@ -1,0 +1,17 @@
+# HindTechGroup AI PROMPTS
+
+## 1. PRIMARY LOGO — LIGHT MODE
+Create a premium, modern and futuristic corporate logo for HindTechGroup. Design a distinctive geometric hexagon symbol that subtly forms H, T and G without showing the letters as obvious text. Use interlocking/negative-space geometry to communicate technology, innovation, progress and connectivity. Brand name: HindTechGroup. Official tagline: Technology That Moves Forward. Use emerald/teal, mint green, charcoal and white. Clean modern geometric typography. Vector-like, minimal, timeless, scalable. No generic globe, brain, circuit board, medical cross, EV plug or stock icon. Provide a clean light-background version, transparent version, symbol-only mark, favicon/app icon and monochrome version.
+
+## 2. PRIMARY LOGO — DARK MODE
+Create the same HindTechGroup logo and the same geometric HTG symbol for dark-mode branding. Keep the exact symbol proportions and identity from the light version, but optimize contrast for a near-black/charcoal background. Use a vibrant emerald/teal/mint symbol, white HindTech text, teal-green Group text, and light-gray tagline. Official tagline: Technology That Moves Forward. Minimal, premium, futuristic, corporate, vector-like, scalable. Do not redesign the symbol into a different identity. Provide transparent and dark-background versions.
+
+## 3. ABSTRACT 3D TECHNOLOGY HERO VISUAL
+Create a premium custom abstract 3D technology visual for the HindTechGroup website hero section. Dark futuristic environment with emerald, teal and mint lighting. Represent the company ecosystem through an elegant central abstract technology structure with subtle interconnected nodes, flowing data paths and forward-moving geometry. The visual should subtly represent software/digital technology, healthcare innovation and electric mobility without using literal stock icons. Premium corporate 3D render, sophisticated, clean, cinematic but not cluttered, realistic materials, glass and metallic surfaces, controlled glow, deep charcoal background, strong depth, high detail, no text, no logo, no people. Composition should leave clean negative space where website UI may overlap. High resolution, suitable for desktop and responsive cropping.
+
+## Brand rules
+Company: HindTechGroup
+Official tagline: Technology That Moves Forward.
+History wording: Since 2017 / Established in 2017 only in About/company-history context.
+Business areas: Software Development, Healthcare/Pharma, EV Charging & Electric Mobility.
+Primary visual palette: Emerald/teal/mint + charcoal/white.
