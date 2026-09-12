@@ -1,13 +1,1 @@
-export const siteModel = {
-  brand: 'HindTechGroup',
-  history: 'Building technology since 2017',
-  email: 'hindtechgroup@gmail.com',
-  location: { address: 'Tipu Sultan Road, Nanded, Maharashtra, India', lat: 19.163365, lng: 77.329190 },
-  businesses: [
-    { id: 'pharma', name: 'Hind Pharma', type: 'Healthcare', icon: '✚', description: 'Healthcare distribution and pharmaceutical business.' },
-    { id: 'software', name: 'Software Development', type: 'Technology', icon: '⌘', description: 'Websites, software products and practical digital systems.' },
-    { id: 'ev', name: 'EV Charging Solutions', type: 'Mobility', icon: '⚡', description: 'Technology for the growing electric mobility ecosystem.' }
-  ],
-  services: ['Web & Software Development','Business Automation','Digital Product Engineering','Technology Consulting','EV Charging Solutions'],
-  values: ['Build with purpose','Keep technology practical','Design for people','Improve continuously']
-};
+export const siteModel={brand:'HindTechGroup',history:'Building technology since 2017',email:'hindtechgroup@gmail.com',location:{address:'Tipu Sultan Road, Nanded, Maharashtra, India',lat:19.163365,lng:77.329190},businesses:[{id:'pharma',name:'Hind Pharma',type:'Healthcare',icon:'✚',description:'Healthcare distribution and pharmaceutical business.'},{id:'software',name:'Software Development',type:'Technology',icon:'⌘',description:'Websites, software products and practical digital systems.'},{id:'ev',name:'EV Charging Solutions',type:'Mobility',icon:'⚡',description:'Technology for the growing electric mobility ecosystem.'}],services:['Web & Software Development','Business Automation','Digital Product Engineering','Technology Consulting','EV Charging Solutions']};
