@@ -3,7 +3,9 @@ HINDTECHGROUP WEBSITE RULES
 IDENTITY
 Repository: HindTechGroup
 Public website. Primary domain: hindtechgroup.com. Secondary: hindtechgroup.co.in.
-Approved wording: Building technology since 2017.
+Official tagline: Technology That Moves Forward.
+
+History wording: use “Since 2017” or “Established in 2017” only in the About/company-history context.
 
 BUSINESSES
 Hind Pharma; Software Development; EV Charging Solutions.
