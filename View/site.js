@@ -1,3 +1,1 @@
-import '../View Model/siteViewModel.js';
-import { renderBusinesses, renderServices } from './app.js';
-document.addEventListener('DOMContentLoaded',()=>{renderBusinesses();renderServices();});
+import'../View Model/siteViewModel.js';import{renderBusinesses,renderServices}from'./app.js';document.addEventListener('DOMContentLoaded',()=>{renderBusinesses();renderServices()});
