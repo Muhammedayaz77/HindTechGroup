@@ -1,6 +1,6 @@
 from html.parser import HTMLParser
 from pathlib import Path
-from urllib.parse import urlsplit
+from urllib.parse import unquote
 
 ROOT = Path(__file__).resolve().parents[1]
 errors = []
@@ -13,7 +13,7 @@ class Parser(HTMLParser):
         for key, value in attrs:
             if key not in {"href", "src", "data-source"} or not value:
                 continue
-            target = value.split("#", 1)[0].split("?", 1)[0]
+            target = unquote(value.split("#", 1)[0].split("?", 1)[0])
             if not target or target.startswith(("http://", "https://", "mailto:", "tel:", "javascript:", "data:")):
                 continue
             candidate = (self.file.parent / target).resolve()
