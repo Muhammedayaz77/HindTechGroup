@@ -1,11 +1,1 @@
-import { siteModel } from '../Models/siteModel.js';
-import { $, $$ } from '../Helper/siteHelper.js';
-
-export function renderBusinesses() {
-  const target=$('#businessGrid'); if(!target)return;
-  target.innerHTML=siteModel.businesses.map(b=>'<article class="card reveal"><div class="icon">'+b.icon+'</div><div class="eyebrow">'+b.type+'</div><h3>'+b.name+'</h3><p>'+b.description+'</p><a class="btn secondary" href="businesses.html#'+b.id+'">Explore →</a></article>').join('');
-}
-export function renderServices() {
-  const target=$('#serviceGrid'); if(!target)return;
-  target.innerHTML=siteModel.services.map((s,i)=>'<div class="card reveal"><span class="number">0'+(i+1)+'</span><h3>'+s+'</h3><p>Practical, maintainable technology focused on useful outcomes.</p></div>').join('');
-}
+import{siteModel}from'../Models/siteModel.js';import{$}from'../Helper/siteHelper.js';export function renderBusinesses(){const t=$('#businessGrid');if(!t)return;t.innerHTML=siteModel.businesses.map(b=>'<article class="card reveal"><div class="icon">'+b.icon+'</div><div class="eyebrow">'+b.type+'</div><h3>'+b.name+'</h3><p>'+b.description+'</p><a class="btn secondary" href="businesses.html#'+b.id+'">Explore →</a></article>').join('')}export function renderServices(){const t=$('#serviceGrid');if(!t)return;t.innerHTML=siteModel.services.map((s,i)=>'<div class="card reveal"><span class="number">0'+(i+1)+'</span><h3>'+s+'</h3><p>Practical, maintainable technology focused on useful outcomes.</p></div>').join('')}
