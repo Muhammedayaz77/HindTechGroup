@@ -1,0 +1,90 @@
+HINDTECHGROUP WEBSITE RULES
+
+IDENTITY
+- Repository: HindTechGroup
+- Public repository.
+- Primary domain for now: hindtechgroup.com
+- Secondary domain: hindtechgroup.co.in
+- Approved wording: Building technology since 2017
+
+BUSINESSES
+- Hind Pharma
+- Software Development
+- EV Charging Solutions
+- Hind Pharma is a HindTechGroup business/unit.
+
+BRANDING
+- Premium futuristic corporate technology identity.
+- HindPharma green is the inspiration; refine it with a modern palette when useful.
+- Light and Dark theme toggle.
+- Replaceable dummy logo: Assets/hindtechgroupLogo.svg
+
+DESIGN
+- High-quality visual treatment.
+- Subtle gradients, glass effects, grid/particle feel and reveal animations.
+- Performance is more important than decorative effects.
+- Responsive website.
+
+ARCHITECTURE
+- MVVM-style organization: View, View Model, Models, Helper, Assets.
+- Keep content data-driven and reusable.
+- Keep future Python backend integration possible.
+
+BACKEND
+- Do not add Python without a real server-side need.
+- Use Python for email/API/persistent services when required.
+- Never commit credentials. Use environment variables.
+
+CONTACT
+- Email: hindtechgroup@gmail.com
+- Contact form must validate input and show clear states.
+
+LOCATION
+- Tipu Sultan Road, Nanded, Maharashtra, India
+- Latitude 19.163365
+- Longitude 77.329190
+- Use only this approved company location.
+
+PAGES
+- Home
+- About Us
+- Businesses
+- Products & Solutions
+- Services
+- Technology
+- Careers
+- Projects
+- News & Updates
+- Contact
+- Privacy Policy
+- Terms & Conditions
+
+CONTENT
+- Be professional and honest.
+- Do not claim government registration, certifications, awards, clients, revenue or partnerships unless verified.
+- "Building technology since 2017" must not be presented as a government registration claim.
+
+SEO / ACCESSIBILITY
+- Meaningful page titles and meta descriptions.
+- Semantic HTML, one clear H1, useful link text and labels.
+- Keyboard focus and contrast.
+- Alt text for meaningful images.
+- Easy canonical/domain configuration.
+
+PERFORMANCE
+- Prefer CSS/SVG to heavy assets.
+- Avoid unnecessary third-party JavaScript.
+- Lazy-load non-critical media.
+- Avoid layout shift.
+
+TESTING
+- Test all navigation.
+- Test theme persistence.
+- Test responsive layouts.
+- Test keyboard and form validation.
+- Check console/runtime errors.
+- Remove broken links and obvious accessibility issues.
+
+DOMAIN
+- Build for static hosting such as GitHub Pages.
+- Update domain configuration after final domain purchase/DNS setup.
